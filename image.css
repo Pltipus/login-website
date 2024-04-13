@@ -1,0 +1,16 @@
+.image{
+  border-radius: 115px;
+  display: inline-block;
+}
+.text {
+  border-radius: 100px;
+  font-family: arial;
+  margin-top: 0;
+  margin-left: 0;
+  padding: 15px;
+  width: 300px;
+  font-size: 15px;
+  border-style: solid;
+  border-color: rgb(211, 209, 209);
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,35 @@
+.box{
+  margin-top: 5px;
+  font-size: 24px;
+  border-radius: 5px;
+  border-style: solid;
+}
+.email{
+  margin-bottom: 0;
+  font-size: 13px;
+  color: rgb(103, 101, 101);
+}
+.para{
+  font-size: 13px;
+  color: rgb(82, 80, 80);
+}
+.agree{
+  background-color: rgb(26, 69, 179);
+  color: white;
+  font-size: 14px;
+  padding-left: 110px;
+  padding-right: 110px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+  border-style: solid;
+  border: none;
+  transition: opacity 0.15s,box-shadow 0.15s;
+  cursor: pointer;
+}
+.agree:hover{
+  opacity: 0.8;
+}
+.agree:active{
+  box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.5);
+}
